@@ -1,0 +1,3 @@
+/home/dm_zap/Projects/hackmirea2018/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dm_zap/Projects/hackmirea2018/cmake-build-debug/CMakeFiles/hackmirea2018.dir
+/home/dm_zap/Projects/hackmirea2018/cmake-build-debug/CMakeFiles/edit_cache.dir
